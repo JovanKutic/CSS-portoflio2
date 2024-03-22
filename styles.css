@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #DDE6ED;
+  }
+
+  .top-container {
+    background-color: #C2DEDC;
+    position: relative;
+    padding-top: 100px;
+}
+
+.keeb {
+    position: relative;
+    right: 15%;
+    border-radius: 10%;
+    padding-top: 20px;
+}
+
+.keeb1 {
+    position: relative;
+    left: 15%;
+    border-radius: 10%;
+    padding-bottom: 20px;
+}
+
+
+.middle-container {
+    margin: 100px 0;
+    background-color: #DDE6ED;
+  }
+
+.profile-pic {
+    border-radius: 50%;
+    height: 230px;
+    border: 5px solid #ECE5C7;
+}
+
+.gif {
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 25px;
+}
+
+.fortnite-skin {
+    float: left;
+    padding-right: 15px;
+
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+    background-color: #DDE6ED;
+}
+
+.contact-me {
+  padding: 50px 0 20px;
+}
+
+.title-text {
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: #116A7B;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+#hi {
+    font-family: "Domine", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #526D82;
+}
+
+p{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.2em;
+}
+
+#skills {
+    font-family: "Domine", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #526D82;
+    background-color: #DDE6ED;
+}
+
+h3 {
+    font-family: "Domine", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #526D82;
+}
+
+#touch {
+    font-family: "Domine", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #526D82;
+}
+
+.title-text h1 {
+    font-size: 2.5em;
+    font-weight: 800;
+}
+
+.title-text h2 {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.fortnite-skin img {
+    border-radius: 10px;
+}
+
+#amd {  
+    margin-right: 10px;
+}
